@@ -1,4 +1,5 @@
 Problem Statement
+
 Stock market prediction is defined as “the act of trying to determine the future value of a company stock or
 other financial instrument traded on an exchange”. Predicting future values of stock prices can yield great
 profits for the company. However, the task is not particularly an easy one as it can involve numerous factors
